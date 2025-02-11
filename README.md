@@ -57,11 +57,4 @@ This project implements an **event-driven data pipeline** using **Databricks**, 
 ## **Future Enhancements**
 - Integrate **event-driven notifications** (e.g., Google Pub/Sub) to alert users on pipeline execution.
 - Implement **schema evolution** handling for dynamic data changes.
-- Extend **workflow orchestration** to support multiple datasets and processing steps.
-
-## **License**
-This project is open-source under the **MIT License**.
-
 ---
-
-Let me know if you want any refinements! 🚀
